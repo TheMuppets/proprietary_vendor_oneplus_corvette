@@ -1729,7 +1729,6 @@ PRODUCT_PACKAGES += \
     libaiboost.oplusmss \
     libaiboost_qnn_external_delegate.oplusmss \
     vendor.oplus.hardware.camera_rfi-V1-service-impl \
-    vendor.oplus.hardware.display.MixLut3D-V1-ndk_platform \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
     vendor.pixelworks.hardware.display-V1-ndk \
